@@ -8,6 +8,7 @@ public class Raton {
         for (int i = 0; i < 3; i++) {
             
         // Variables globales
+        sum = 0;
         int numero=0;
         int resultado=0;
         // Fin de VG
